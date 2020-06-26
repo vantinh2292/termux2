@@ -1,0 +1,39 @@
+{
+  "name": "omron-fins",
+  "description": "Node.js implementation of the Omron FINS protocol",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "author": {
+    "name": "Patrick Servello",
+    "email": "patrick.servello@gmail.com"
+  },
+  "keywords": [
+    "OMRON",
+    "FINS",
+    "PLC",
+    "Automation",
+    "Industrial"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bcrypt": "^3.0.7",
+    "config": "^1.30.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "socket.io": "^2.2.0",
+    "socketio": "^1.0.0",
+    "systeminformation": "^4.26.1"
+  },
+  "readme": "node-omron-fins\n===============\n\nAn implementation of the Omron FINS library for node js\n",
+  "readmeFilename": "README.md",
+  "_id": "omron-fins@0.0.1",
+  "_shasum": "7eed15526534a65f5e799dfa4e7c0e0a2dd6acb7",
+  "_from": "/home/patrick/Documents/code/github/node-omron-fins",
+  "devDependencies": {}
+}

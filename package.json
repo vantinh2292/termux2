@@ -28,7 +28,7 @@
     "morgan": "^1.9.1",
     "socket.io": "^2.2.0",
     "socketio": "^1.0.0",
-    "systeminformation": "^4.26.1"
+    "systeminformation": "^5.6.4"
   },
   "readme": "node-omron-fins\n===============\n\nAn implementation of the Omron FINS library for node js\n",
   "readmeFilename": "README.md",
